@@ -14,7 +14,7 @@ local GetKeyButton = Instance.new("TextButton")
 function PrisonLife()
 	if game.PlaceId == 155615604 then
 		KeySystemGui.Enabled = false
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/RealErickDenisDavid/Fe-Admin-Commands/main/Fe%20Admin%20Commands.lua", true))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/RealErickDenisDavid/Loaded-Fe-Admin-Commands/main/Fe%20Admin%20Commands.lua?token=GHSAT0AAAAAABZGXEM2JMAJCIUOWUKZUDVUYZRTYZA", true))()
 	end
 end
 
